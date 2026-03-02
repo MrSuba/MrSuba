@@ -41,8 +41,8 @@
 <h2 align="center"> Connect with me: </h2>
 
 <p align="center">
-<a href="[https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ](https://www.youtube.com/@dasundilharasubawickrama6687)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" alt="mrsuba" height="55" width="55" /></a>
+<a href="[https://www.youtube.com/@dasundilharasubawickrama6687](https://www.youtube.com/@dasundilharasubawickrama6687)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" alt="mrsuba" height="55" width="55" /></a>
   <img width="1" />
-<a href="[[https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/dasun-subhawickrama-96007333a/)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mrsuba" height="50" width="50" /></a>
+<a href="[https://www.linkedin.com/in/dasun-subhawickrama-96007333a/](https://www.linkedin.com/in/dasun-subhawickrama-96007333a/)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mrsuba" height="50" width="50" /></a>
   
 </p>
