@@ -39,6 +39,12 @@
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsuba&theme=dark" /> </p>
 
 ---
+## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>Most Used Languages</b>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrsuba&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+
+<hr>
 <h2 align="center"> Connect with me: </h2>
 
 <p align="center">
